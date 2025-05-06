@@ -1,12 +1,15 @@
 # Control de Gastos
 
-Este es un proyecto minimalista hecho con React y Vite que permite llevar un control básico de gastos.
+Una aplicacion minimalista desarrollada con react para llevar el control de tus
+gastos.Permite agregar una descripcion y cantidad de gasto, y muestra el total
+actualizado.
 
 ## Funcionalidades
 
 - Agregar gastos con descripción y cantidad.
 - Visualización del total acumulado de gastos.
 - Interfaz clara y simple.
+- Ver el total acumulado en tiempo real.
 
 ## Tecnologías
 
