@@ -1,0 +1,11 @@
+.formulario {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .formulario input,
+  .formulario button {
+    padding: 10px;
+    font-size: 1rem;
+  }
